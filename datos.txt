@@ -1,0 +1,3 @@
+nombre: francisco
+curso: 
+ciudad:
